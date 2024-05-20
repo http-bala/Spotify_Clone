@@ -1,6 +1,9 @@
 # Spotify Clone
 
-This project is a basic user interface (UI) clone of Spotify created using React and Tailwind CSS. It replicates the visual design of Spotify's music streaming platform without any actual functionality.
+I've developed a Spotify clone using React and Tailwind CSS. It offers essential music player functionalities like play, pause, and skip buttons, along with a seek bar. Users can easily navigate through songs, albums, and playlists, making it a seamless experience for music enthusiasts.
+
+# Spotify clone ui image
+<img src="./public/image.png" width="500px">
 
 ## Technologies Used
 
