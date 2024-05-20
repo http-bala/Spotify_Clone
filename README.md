@@ -6,7 +6,14 @@ This project is a basic user interface (UI) clone of Spotify created using React
 
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
-
+  
+## Future Work 
+1. make login system
+2. create dashboard add songs/ablum
+3. dark/light feature
+4. lazy loding feature
+5. share songs feature
+    
 ## Project Structure
 
 ### 1. Setup
